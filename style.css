@@ -22,5 +22,15 @@ hr.class-1 {
 }
 
 hr.class-2 {
-    border-top: 8px limegreen;
+    border-top: 5px black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: limegreen;
+    bottom: 0px;
+    width: 100%;
+    background-color: black;
+    line-height: 20px;
+    text-align: center;
 }
